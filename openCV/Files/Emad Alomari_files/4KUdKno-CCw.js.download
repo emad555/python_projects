@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["cvqOw"]); }
+
+__d("RelayFBScheduler",["ReactDOMComet"],(function(a,b,c,d,e,f){"use strict";a={cancel:function(){},schedule:function(a){b("ReactDOMComet").unstable_batchedUpdates(a);return""}};e.exports=a}),null);
